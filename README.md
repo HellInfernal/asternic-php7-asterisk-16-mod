@@ -28,8 +28,8 @@ Installation guide:
 6) Edit ./parselog/config.php to set the location and 
    name of the queue_log file and your db user and pass
    
-   Beware: parselog folder must be on the same machine that asterisk or,
-   for example, you can also mount queue.log file 
+   Beware: parselog folder must be on the same machine that asterisk, or,
+   for example, you can also mount queue_log file 
    from asterisk machine to your machine.
 
 7) Move the parselog directory to its final location:
