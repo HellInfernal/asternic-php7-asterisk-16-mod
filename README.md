@@ -5,6 +5,7 @@ You can run it with php7.* and asterisk 16.3 (or lower).
 It does not support older versions of php.
 
 Installation guide:
+------------
 
 1) Download the whole archive and unzip it.
 
